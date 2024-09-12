@@ -5,7 +5,7 @@ export type Product = {
   description: string
   type: string
   slug: string
-  image?: Array<{asset: {url: string}}>
+  image?: string
   hover_color?: any
   is_best?: boolean
   in_development?: boolean

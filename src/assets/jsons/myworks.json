@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Viat",
+        "link": "https://www.viat.co.id",
+        "id": 1,
+        "description": "Viat is an application for looking for promos from various places such as cafes, tourist attractions, hotels, etc.",
+        "type": "Mobile",
+        "slug": "viat",
+        "image": "https://raw.githubusercontent.com/kouseina/gaac/main/uploads/viat.jpg",
+        "hover_color": "#B2202E",
+        "is_best": true,
+        "in_development": false
+    },
+    {
+        "name": "Diyo Enterprise",
+        "link": "https://drive.google.com/drive/folders/1NdFpHzvLmPv4CN_3uHu0MjL1wJnR9j0c?usp=sharing",
+        "id": 2,
+        "description": "Diyo Enterprise is an application for online ordering food. Its connect with postal web app. There are features like get outlet, scan qr code, set location, member mission, order menu with payment method, etc.",
+        "type": "Mobile",
+        "slug": "diyo-enterprise",
+        "image": "https://raw.githubusercontent.com/kouseina/gaac/main/uploads/diyo-enterprise-2.jpg",
+        "hover_color": "#DB4444",
+        "is_best": true,
+        "in_development": false
+    },
+    {
+        "name": "Diyo Lite",
+        "link": "https://drive.google.com/drive/folders/1NdFpHzvLmPv4CN_3uHu0MjL1wJnR9j0c?usp=sharing",
+        "id": 3,
+        "description": "Diyo Lite is a postal application for MSMEs. There are several features such as wireless & bluetooth print, offline mode, report, custom price, etc.",
+        "type": "Mobile",
+        "slug": "diyo-lite",
+        "image": "https://raw.githubusercontent.com/kouseina/gaac/main/uploads/diyo-lite.jpg",
+        "hover_color": "#E0E0E0",
+        "is_best": false,
+        "in_development": false
+    },
+    {
+        "name": "Rumah Berkat",
+        "link": "https://rumahberkat.com/",
+        "id": 4,
+        "description": "Rumahberkat is an online donation site and fundraising for initiatives, campaigns and social programs. You can (create, edit, delete) campaign, donation, fundraising, disbursment, volunteer, add timeline.",
+        "type": "Mobile",
+        "slug": "rumah-berkat",
+        "image": "https://raw.githubusercontent.com/kouseina/gaac/main/uploads/rumahberkat-2.jpg",
+        "hover_color": "#E0E0E0",
+        "is_best": true,
+        "in_development": false
+    },
+    {
+        "name": "Batours",
+        "link": "https://drive.google.com/drive/folders/1W0gm5e8y5LcMdQnvERUQHw-KPxAgUQiJ?usp=sharing",
+        "id": 5,
+        "description": "Batours is an application to provide tourist information around Bandung. Features in this app are search with filter, detail information, login, bookmark.",
+        "type": "Mobile",
+        "slug": "batours",
+        "image": "https://raw.githubusercontent.com/kouseina/gaac/main/uploads/batours.jpg",
+        "hover_color": "#E0E0E0",
+        "is_best": false,
+        "in_development": false
+    },
+    {
+        "name": "Warlen",
+        "link": "https://drive.google.com/drive/u/0/folders/19trudXPWtSbf0CGsFtuJGL_IUBzsAIyw",
+        "id": 6,
+        "description": "Warlen is an application for ordering food online and has 2 applications, namely for ordering and for couriers. This is an application on the part of the food vendor. Users only need to order food and wait for the courier to deliver it.",
+        "type": "Mobile",
+        "slug": "warlen",
+        "image": "https://raw.githubusercontent.com/kouseina/gaac/main/uploads/warlen.jpg",
+        "hover_color": "#E0E0E0",
+        "is_best": false,
+        "in_development": false
+    },
+    {
+        "name": "Pradini",
+        "link": "https://play.google.com/store/apps/details?id=com.tothemoon.simungil",
+        "id": 7,
+        "description": "Pradini helps the growth of premature babies on a regular basis, stores data digitally, and helps locate Health Services for Premature Babies.",
+        "type": "Mobile",
+        "slug": "pradini",
+        "image": "https://raw.githubusercontent.com/kouseina/gaac/main/uploads/pradini.jpg",
+        "hover_color": "#E0E0E0",
+        "is_best": false,
+        "in_development": false
+    },
+    {
+        "name": "Fintex News",
+        "link": "https://drive.google.com/drive/folders/1xaKZcqH5AYmvgjcrov1pCJ8E-F8HoQ2h?usp=sharing",
+        "id": 8,
+        "description": "Fintex news is a news portal application, which contains about digital coins. There is a multi-language feature.",
+        "type": "Mobile",
+        "slug": "fintex-news",
+        "image": "https://raw.githubusercontent.com/kouseina/gaac/main/uploads/fintex.jpg",
+        "hover_color": "#E0E0E0",
+        "is_best": false,
+        "in_development": false
+    },
+    {
+        "name": "Bukusaku",
+        "link": "https://play.google.com/store/apps/details?id=com.scc.bukusakuonline.user",
+        "id": 9,
+        "description": "Bukusaku is a monitoring and reporting application of student violations in conducting activities at school.",
+        "type": "Mobile",
+        "slug": "bukusaku",
+        "image": "https://raw.githubusercontent.com/kouseina/gaac/main/uploads/bukusaku.jpg",
+        "hover_color": "#E0E0E0",
+        "is_best": false,
+        "in_development": false
+    }
+]

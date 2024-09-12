@@ -1,12 +1,12 @@
-import { revalidateTime } from '@/lib/utils'
+
 import { Product } from '@/types/product'
+import MyProjectsJson from '%%/jsons/myprojects.json'
 
 import Block from '#/UI/Block'
 import ProductCard from '#/UI/ProductCard'
 
 export async function getProjects(): Promise<Product[]> {
-
-  return []
+  return MyProjectsJson
 }
 
 const projectsData = {

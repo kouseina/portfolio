@@ -1,13 +1,14 @@
 
 import { revalidateTime } from '@/lib/utils'
 import { Product } from '@/types/product'
+import MyWorksJson from '%%/jsons/myworks.json'
 
 import Block from '#/UI/Block'
 import ProductCard from '#/UI/ProductCard'
 import Button from '#/UI/Button'
 
 export async function getWorks(): Promise<Product[]> {
-  return []
+  return MyWorksJson
 }
 
 const worksData = {
