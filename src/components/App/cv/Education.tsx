@@ -8,7 +8,7 @@ const education: any = {
     title: 'Telkom School Purwokerto',
     caption: 'Software Engineering',
     duration: 'July 2018 - March 2021',
-    link: 'https://hsedesign.ru/designer/bozzhik',
+    link: 'https://smktelkom-pwt.sch.id/',
     icon: TelkomImage,
   }
 }
