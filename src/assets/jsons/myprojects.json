@@ -10,41 +10,5 @@
         "hover_color": "#B2202E",
         "is_best": true,
         "in_development": false
-    },
-    {
-        "name": "Whytrip",
-        "link": "https://drive.google.com/drive/folders/1I_PY8zrAq9BsBqB9UF-Gb7NV0OPmVOpL?usp=sharing",
-        "id": 2,
-        "description": "Whytrip is a website to introduce tourism in every province in Indonesia. This website has features for forecasting the weather, 360-degree videos, recommendations for equipment to bring, etc.",
-        "type": "Website",
-        "slug": "whytrip",
-        "image": "https://raw.githubusercontent.com/kouseina/gaac/main/uploads/whytrip.jpg",
-        "hover_color": "#E0E0E0",
-        "is_best": false,
-        "in_development": false
-    },
-    {
-        "name": "Fimo",
-        "link": "https://drive.google.com/drive/folders/1w_QQH-qMB_Vf4ZU1hwgUM5n9y4lvYtGN?usp=sharing",
-        "id": 3,
-        "description": "Fimo stands for Financial Mom. This application is made for career mothers, but can be used for other mothers. Its features include financial management, social gathering, blogs, consulting, plans, etc.",
-        "type": "Mobile",
-        "slug": "fimo",
-        "image": "https://raw.githubusercontent.com/kouseina/gaac/main/uploads/fimo.jpg",
-        "hover_color": "#E0E0E0",
-        "is_best": false,
-        "in_development": false
-    },
-    {
-        "name": "SemarVest",
-        "link": "https://semarvest.vercel.app/",
-        "id": 4,
-        "description": "Semarvest is a website application for capital for MSMEs that need funds. There are several features such as capital, training, investment. The main goal is to promote local MSMEs.",
-        "type": "Website",
-        "slug": "semar-vest",
-        "image": "https://raw.githubusercontent.com/kouseina/gaac/main/uploads/semarvest.jpg",
-        "hover_color": "#E0E0E0",
-        "is_best": false,
-        "in_development": false
     }
 ]
