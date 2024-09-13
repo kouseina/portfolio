@@ -116,7 +116,7 @@
         "slug": "nimbrung",
         "image": "https://raw.githubusercontent.com/kouseina/gaac/main/uploads/nimbrung-2.jpg",
         "hover_color": "#B2202E",
-        "is_best": true,
+        "is_best": false,
         "in_development": false
     },
     {
