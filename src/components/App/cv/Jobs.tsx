@@ -13,7 +13,7 @@ const jobsData: any = {
     'savir': {
       title: 'Satu Visi Raya',
       caption: 'Mobile Developer',
-      duration: 'Mar 2024 - Present',
+      duration: 'Mar 2024 - Aug 2024',
       link: 'https://www.linkedin.com/company/pt-satu-visi-raya',
       icon: SavirImage,
     },
