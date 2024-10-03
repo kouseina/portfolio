@@ -17,12 +17,12 @@ const jobsData: any = {
       link: 'https://www.linkedin.com/company/pt-satu-visi-raya',
       icon: SavirImage,
     },
-    'dealjava': {
-      title: 'Dealjava',
+    'diyo': {
+      title: 'Diyo Solusi Digital',
       caption: 'Mobile Developer',
       duration: 'July 2023 - July 2024',
-      link: 'https://www.linkedin.com/company/dealjava',
-      icon: DealjavaImage,
+      link: 'https://www.instagram.com/diyo.app/',
+      icon: FreelanceImage,
     },
     'rhakasa': {
       title: 'Rakhasa Arta Wisesa',
